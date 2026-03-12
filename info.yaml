@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "Analog PLL"      # Project title
+  title:        "Analog-PLL"      # Project title
   author:       "Vighneshkumar Uttarkar"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "2.4GHz targeted frequency synthesizer Phase Lock Loop"      # One line description of what your project does
